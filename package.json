@@ -1,0 +1,9 @@
+{
+  "name": "youtube-business-360-access",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YOUTUBE BUSINESS 360° - protected training and admin access",
+  "main": "server/server.js",
+  "scripts": {"start": "node server/server.js"},
+  "engines": {"node": ">=18"}
+}
